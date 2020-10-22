@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/smart-poll/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/smart-poll/static/js/main.45e0435c.chunk.js",
+    "main.js.map": "/smart-poll/static/js/main.45e0435c.chunk.js.map",
+    "runtime-main.js": "/smart-poll/static/js/runtime-main.5cf660a0.js",
+    "runtime-main.js.map": "/smart-poll/static/js/runtime-main.5cf660a0.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/smart-poll/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.616c8f5a.chunk.js": "/smart-poll/static/js/2.616c8f5a.chunk.js",
+    "static/js/2.616c8f5a.chunk.js.map": "/smart-poll/static/js/2.616c8f5a.chunk.js.map",
+    "index.html": "/smart-poll/index.html",
+    "precache-manifest.e6ec90b72a068607b521aaf93ed6bb7f.js": "/smart-poll/precache-manifest.e6ec90b72a068607b521aaf93ed6bb7f.js",
+    "service-worker.js": "/smart-poll/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/smart-poll/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/smart-poll/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.616c8f5a.chunk.js.LICENSE.txt": "/smart-poll/static/js/2.616c8f5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf660a0.js",
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.616c8f5a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.45e0435c.chunk.js"
+  ]
+}
