@@ -59,8 +59,8 @@ selectPoll=pollId=>{
 
 //handle Search
 
-handleSearch=searchTerm=>{     //not state searchTerm just function parameter
-this.setState({searchTerm})
+handleSearch=searchValue=>{     //not state searchTerm just function parameter
+this.setState({searchTerm:searchValue})
 };
 
 performSearch=()=>{
